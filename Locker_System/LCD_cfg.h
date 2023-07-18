@@ -2,7 +2,7 @@
  * LCD_cfg.h
  *
  * Created: 11/17/2022 8:25:23 PM
- *  Author: Mahmoud
+ *  Author: AhmedMabrouk
  */ 
 
 

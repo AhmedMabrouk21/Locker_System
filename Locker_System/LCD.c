@@ -2,7 +2,7 @@
  * LCD.c
  *
  * Created: 11/17/2022 6:29:26 PM
- *  Author: Mahmoud
+ *  Author: AhmedMabrouk
  */ 
 
 
